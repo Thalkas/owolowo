@@ -26,6 +26,6 @@
             }
         ]
     },
-    "payloadURI": "https://raw.githubusercontent.com/faddix/seanime-animetosho-new/main/animetosho-new.ts",
-    "manifestURI": "https://raw.githubusercontent.com/faddix/seanime-animetosho-new/main/animetosho-new.json"
+    "payloadURI": "https://raw.githubusercontent.com/Thalkas/owolowo/refs/heads/main/anitosho.ts",
+    "manifestURI": "https://raw.githubusercontent.com/Thalkas/owolowo/refs/heads/main/anitosho.json"
 }
