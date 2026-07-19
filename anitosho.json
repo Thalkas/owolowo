@@ -4,9 +4,9 @@
     "version": "2.4.0",
     "language": "typescript",
     "type": "anime-torrent-provider",
-    "description": "Integrates Anime Tosho (NEW) as a torrent streaming provider for Seanime.",
-    "author": "Faddix, Island",
-    "icon": "https://raw.githubusercontent.com/faddix/seanime-animetosho-new/main/src/animetosho-new-logo.png",
+    "description": "Older Version - Integrates Anime Tosho (NEW) as a torrent streaming provider for Seanime.",
+    "author": "Faddix, Island, Thalkas",
+    "icon": "https://raw.githubusercontent.com/Thalkas/owolowo/refs/heads/main/src/animetosho-new-logo.png",
     "lang": "multi",
     "userConfig": {
         "version": 1,
